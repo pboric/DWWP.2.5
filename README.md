@@ -1,6 +1,6 @@
 # Spotify Top Tracks Analysis
 
-This Python script analyzes the top tracks on Spotify. It uses the pandas, numpy, and opendatasets libraries to download, manipulate, and analyze the data.
+Analyzing the top tracks on Spotify. Useing pandas, numpy, and opendatasets libraries to download, manipulate, and analyze the data.
 
 ## Data
 
